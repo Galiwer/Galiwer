@@ -84,13 +84,14 @@ I am currently a Computer Science undergraduate at **SLIIT**, deeply interested 
 >
 </div>
 
-### 📊 Activity Graph
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Galiwer&theme=radical&hide_border=true" alt="Galiwer's Streak" />
-</div>
+### 🚀 Profile Activity
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Galiwer&style=flat-square&color=2196F3&label=Profile+Views" alt="Profile Views" />
+</div>
 
 <div align="center">
   <br />
   <p><i>"The only way to do great work is to love what you do."</i></p>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Footer Animation" />
 </div>
