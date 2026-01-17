@@ -32,9 +32,10 @@ I am currently a Computer Science undergraduate at **SLIIT**, deeply interested 
 
 ### 🛠️ Technical Arsenal
 
-<table width="100%">
+<div align="center">
+<table align="center">
   <tr>
-    <td align="center" width="50%">
+    <td align="center" valign="top" width="50%">
       <h3>🎨 Frontend Development</h3>
       <b>Languages</b><br>
       <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="Frontend Languages" />
@@ -42,7 +43,7 @@ I am currently a Computer Science undergraduate at **SLIIT**, deeply interested 
       <b>Frameworks & Libraries</b><br>
       <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" alt="Frontend Frameworks" />
     </td>
-    <td align="center" width="50%">
+    <td align="center" valign="top" width="50%">
       <h3>⚙️ Backend & Database</h3>
       <b>Languages & Runtimes</b><br>
       <img src="https://skillicons.dev/icons?i=python,java,nodejs" alt="Backend Languages" />
@@ -52,7 +53,7 @@ I am currently a Computer Science undergraduate at **SLIIT**, deeply interested 
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" valign="top" width="50%">
       <h3>🤖 AI, ML & Data Science</h3>
       <a href="https://pytorch.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" height="40" width="40" alt="PyTorch"/></a>
       <a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" height="40" width="40" alt="TensorFlow"/></a>
@@ -64,7 +65,7 @@ I am currently a Computer Science undergraduate at **SLIIT**, deeply interested 
       <a href="https://numpy.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" width="40" alt="Numpy"/></a>
       <a href="https://www.mathworks.com/" target="_blank"><img src="https://skillicons.dev/icons?i=matlab" height="40" width="40" alt="Matlab"/></a>
     </td>
-    <td align="center" width="50%">
+    <td align="center" valign="top" width="50%">
       <h3>☁️ DevOps & Design</h3>
       <b>Cloud & Tools</b><br>
       <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,git" />
@@ -74,10 +75,10 @@ I am currently a Computer Science undergraduate at **SLIIT**, deeply interested 
     </td>
   </tr>
 </table>
+</div>
 
 ---
 
 <div align="center">
-  <br />
-  <p><i>"The only way to do great work is to love what you do."</i></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2196F3&height=120&section=footer&text=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do&fontSize=20&fontColor=ffffff&fontAlign=50" alt="Footer Quote"/>
 </div>
