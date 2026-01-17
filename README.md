@@ -83,11 +83,8 @@ I am currently a Computer Science undergraduate at **SLIIT**, deeply interested 
 ---
 >
 </div>
-
-### 🚀 Profile Activity
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Galiwer&style=flat-square&color=2196F3&label=Profile+Views" alt="Profile Views" />
+  <img src="https://streak-stats.demolab.com?user=Galiwer&theme=radical&hide_border=true" alt="Streak Stats" />
 </div>
 
 <div align="center">
