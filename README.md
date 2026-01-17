@@ -83,8 +83,10 @@ I am currently a Computer Science undergraduate at **SLIIT**, deeply interested 
 ---
 >
 </div>
+### 📊 GitHub Stats (Auto-Generated)
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Galiwer&theme=radical&hide_border=true" alt="Streak Stats" />
+  <img src="https://github.com/Galiwer/Galiwer/blob/master/github-metrics.svg" alt="Omindu's GitHub Metrics" width="100%">
 </div>
 
 <div align="center">
