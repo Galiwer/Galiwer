@@ -43,6 +43,8 @@ I am currently a Computer Science undergraduate at **SLIIT**, deeply interested 
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
 </p>
 
+
+
 #### ⚙️ Backend & Database
 **Languages**
 <p>
@@ -58,6 +60,8 @@ I am currently a Computer Science undergraduate at **SLIIT**, deeply interested 
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,firebase" />
 </p>
+
+
 
 #### 🤖 AI, ML & Data Science
 <p>
@@ -87,6 +91,8 @@ I am currently a Computer Science undergraduate at **SLIIT**, deeply interested 
   </a>
 </p>
 
+
+
 #### ☁️ DevOps, Cloud & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,bash,git,postman" />
@@ -100,7 +106,7 @@ I am currently a Computer Science undergraduate at **SLIIT**, deeply interested 
 ---
 >
 </div>
---
+
 <div align="center">
   <br />
   <p><i>"The only way to do great work is to love what you do."</i></p>
