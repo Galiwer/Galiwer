@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2196F3&height=280&section=header&text=Hi%20👋%2C%20I%27m%20Omindu%20Kumara&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2196F3&height=280&section=header&text=Hi%20👋%2C%20I%27m%20Omindu%20Kumara&fontSize=20&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Header" width="100%"/>
   
   <h3 align="center">🚀 Full Stack Developer | ML Engineer | UI/UX Designer</h3>
   
