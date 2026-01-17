@@ -32,80 +32,57 @@ I am currently a Computer Science undergraduate at **SLIIT**, deeply interested 
 
 ### 🛠️ Technical Arsenal
 
-#### 🎨 Frontend Development
-**Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
-</p>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>🎨 Frontend Development</h3>
+      <b>Languages</b><br>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="Frontend Languages" />
+      <br><br>
+      <b>Frameworks & Libraries</b><br>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" alt="Frontend Frameworks" />
+    </td>
+    <td valign="top" width="50%">
+      <h3>⚙️ Backend & Database</h3>
+      <b>Languages</b><br>
+      <img src="https://skillicons.dev/icons?i=python,java" alt="Backend Languages" />
+      <br><br>
+      <b>Frameworks & Runtimes</b><br>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring" alt="Backend Frameworks" />
+      <br><br>
+      <b>Databases</b><br>
+      <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,firebase" alt="Databases" />
+    </td>
+  </tr>
+</table>
 
-**Frameworks & Libraries**
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
-</p>
-
-
-
-#### ⚙️ Backend & Database
-**Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java" />
-</p>
-
-**Frameworks & Runtimes**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring" />
-</p>
-
-**Databases**
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,firebase" />
-</p>
-
-
-
-#### 🤖 AI, ML & Data Science
-<p>
-  <a href="https://pytorch.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=pytorch" height="40" width="40" alt="PyTorch"/>
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=tensorflow" height="40" width="40" alt="TensorFlow"/>
-  </a>
-  <a href="https://huggingface.co/" target="_blank">
-    <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="40" width="40" alt="Hugging Face"/>
-  </a>
-  <a href="https://ollama.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/ollama" height="40" width="40" alt="Ollama"/>
-  </a>
-  <a href="https://jupyter.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" width="40" alt="Jupyter"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" width="40" alt="Pandas"/>
-  </a>
-  <a href="https://numpy.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" width="40" alt="Numpy"/>
-  </a>
-  <a href="https://www.mathworks.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=matlab" height="40" width="40" alt="Matlab"/>
-  </a>
-</p>
-
-
-
-#### ☁️ DevOps, Cloud & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,bash,git,postman" />
-</p>
-
-#### 🖌️ Design & Creative
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,blender,unreal,arduino" />
-</p>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>🤖 AI, ML & Data Science</h3>
+      <div align="left">
+        <a href="https://pytorch.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" height="40" width="40" alt="PyTorch"/></a>
+        <a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" height="40" width="40" alt="TensorFlow"/></a>
+        <a href="https://huggingface.co/" target="_blank"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="40" width="40" alt="Hugging Face"/></a>
+        <a href="https://ollama.com/" target="_blank"><img src="https://cdn.simpleicons.org/ollama" height="40" width="40" alt="Ollama"/></a>
+        <br>
+        <a href="https://jupyter.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" width="40" alt="Jupyter"/></a>
+        <a href="https://pandas.pydata.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" width="40" alt="Pandas"/></a>
+        <a href="https://numpy.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" width="40" alt="Numpy"/></a>
+        <a href="https://www.mathworks.com/" target="_blank"><img src="https://skillicons.dev/icons?i=matlab" height="40" width="40" alt="Matlab"/></a>
+      </div>
+    </td>
+    <td valign="top" width="50%">
+      <h3>☁️ DevOps & Tools</h3>
+      <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,bash,git,postman" />
+      <br><br>
+      <h3>🖌️ Design & Creative</h3>
+      <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,blender,unreal,arduino" />
+    </td>
+  </tr>
+</table>
 
 ---
->
-</div>
 
 <div align="center">
   <br />
