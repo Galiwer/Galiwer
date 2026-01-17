@@ -33,13 +33,30 @@ I am currently a Computer Science undergraduate at **SLIIT**, deeply interested 
 ### 🛠️ Technical Arsenal
 
 #### 🎨 Frontend Development
+**Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+</p>
+
+**Frameworks & Libraries**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
 </p>
 
 #### ⚙️ Backend & Database
+**Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,python,java,spring,mongodb,postgres,mysql,sqlite,firebase" />
+  <img src="https://skillicons.dev/icons?i=python,java" />
+</p>
+
+**Frameworks & Runtimes**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring" />
+</p>
+
+**Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,firebase" />
 </p>
 
 #### 🤖 AI, ML & Data Science
