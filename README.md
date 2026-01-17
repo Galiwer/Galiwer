@@ -44,7 +44,14 @@ I am currently a Computer Science undergraduate at **SLIIT**, deeply interested 
 
 #### 🤖 AI, ML & Data Science
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,huggingface,ollama,jupyter,pandas,numpy,matlab,matplotlib" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
 </p>
 
 #### ☁️ DevOps, Cloud & Tools
@@ -62,7 +69,7 @@ I am currently a Computer Science undergraduate at **SLIIT**, deeply interested 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Galiwer&show_icons=true&theme=radical&hide_border=true" height="180" alt="Omindu's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Galiwer&show_icons=true&theme=radical&hide_border=true" height="180" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Galiwer&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages" />
 </div>
 
