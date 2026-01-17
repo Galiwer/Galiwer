@@ -81,13 +81,14 @@ I am currently a Computer Science undergraduate at **SLIIT**, deeply interested 
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Galiwer&show_icons=true&theme=radical&hide_border=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Galiwer&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages" />
+>
 </div>
+
+### 📊 Activity Graph
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Galiwer&theme=radical&hide_border=true" alt="Galiwer's Streak" />
+</div>
+
 
 <div align="center">
   <br />
