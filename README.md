@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2196F3&height=280&section=header&text=Hi%20👋%2C%20I%27m%20Omindu%20Kumara&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2196F3&height=150&section=header&text=Hi%20👋%2C%20I%27m%20Omindu%20Kumara&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header" width="100%"/>
   
   <h3 align="center">🚀 Full Stack Developer | ML Engineer | UI/UX Designer</h3>
   
@@ -81,5 +81,5 @@ I am currently a Computer Science undergraduate at **SLIIT**, deeply interested 
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2196F3&height=120&section=footer&text=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do&fontSize=20&fontColor=ffffff&fontAlign=50" alt="Footer Quote" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2196F3&height=100&section=footer&text=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do&fontSize=16&fontColor=ffffff&fontAlign=50" alt="Footer Quote" width="100%"/>
 </div>
