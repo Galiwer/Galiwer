@@ -1,85 +1,143 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2196F3&height=150&section=header&text=Hi%20👋%2C%20I%27m%20Omindu%20Kumara&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header" width="100%"/>
-  
-  <h3 align="center">🚀 Full Stack Developer | ML Engineer | UI/UX Designer</h3>
-  
-  <p align="center">
-    <a href="https://github.com/Galiwer">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Building+Scalable+Web+Apps;Exploring+AI+and+Large+Language+Models;Crafting+Pixel-Perfect+Designs" alt="Typing SVG" />
-    </a>
-  </p>
 
-  <p align="center">
-    <a href="https://linkedin.com/in/OminduKumara" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://kaggle.com/omindukumara" target="blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
-    <a href="mailto:msaokumara@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  </p>
+# Omindu Kumara
+
+**Full Stack Developer &nbsp;·&nbsp; ML Engineer &nbsp;·&nbsp; UI/UX Designer**
+
+Computer Science undergraduate at SLIIT — building at the intersection of modern web development and artificial intelligence. I adapt to whatever the project demands: robust backends, pixel-perfect UIs, or end-to-end ML pipelines.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/OminduKumara)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/omindukumara)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:msaokumara@gmail.com)
+
 </div>
-
-<br>
-
-### 👨‍💻 About Me
-
-I am a versatile engineer who adapts to whatever the project needs—whether it's wearing the hat of a **Full Stack Web Developer** 🌐, **App Developer** 📱, **ML Engineer** 🤖, or **Designer** 🎨. 
-
-I am currently a Computer Science undergraduate at **SLIIT**, deeply interested in leveraging new tech stacks to build innovative solutions. My current focus is on the intersection of modern web development and Artificial Intelligence.
-
-- 🔭 **Currently Working On:** A MERN Stack application and an **AI-powered suspect composite sketch generator**.
-- 🌱 **Currently Learning:** Advanced TypeScript, Tailwind CSS, and Python FastAPI.
-- 👯 **Looking to Collaborate On:** Open source projects involving React, Next.js, or AI/ML tools.
-- 💬 **Ask Me About:** React, Node.js, Web Development, and Machine Learning concepts.
 
 ---
 
-### 🛠️ Technical Arsenal
+## 🚀 Projects
 
-<div align="center">
-<table align="center">
+<table>
   <tr>
-    <td align="center" valign="top" width="50%">
-      <h3>🎨 Frontend Development</h3>
-      <b>Languages</b><br>
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="Frontend Languages" />
-      <br><br>
-      <b>Frameworks & Libraries</b><br>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" alt="Frontend Frameworks" />
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Galiwer/sketchconvert">🎨 FaceSketchAI</a></h3>
+      <p>AI platform that transforms hand-drawn face sketches into photorealistic portraits using <strong>Stable Diffusion</strong> and <strong>ControlNet</strong>. Features an interactive canvas editor, secure JWT auth, and an optimised real-time image generation pipeline.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Stable_Diffusion-8A2BE2?style=flat-square" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+      </p>
+      <sub>Dec 2025 – Jan 2026</sub>
     </td>
-    <td align="center" valign="top" width="50%">
-      <h3>⚙️ Backend & Database</h3>
-      <b>Languages & Runtimes</b><br>
-      <img src="https://skillicons.dev/icons?i=python,java,nodejs" alt="Backend Languages" />
-      <br><br>
-      <b>Frameworks & DBs</b><br>
-      <img src="https://skillicons.dev/icons?i=express,fastapi,spring,mongodb,postgres,mysql,firebase" alt="Backend Tools" />
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Galiwer/Sliit-Tennis-Management-System">🎾 SLIIT Tennis</a></h3>
+      <p>Comprehensive management platform for the SLIIT university tennis team. Handles membership management, player performance tracking, <strong>live tournament scoring</strong>, and automated match scheduling with full containerised cloud deployment.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+        <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </p>
+      <sub>Jan 2026 – Mar 2026</sub>
     </td>
   </tr>
   <tr>
-    <td align="center" valign="top" width="50%">
-      <h3>🤖 AI, ML & Data Science</h3>
-      <a href="https://pytorch.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" height="40" width="40" alt="PyTorch"/></a>
-      <a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" height="40" width="40" alt="TensorFlow"/></a>
-      <a href="https://huggingface.co/" target="_blank"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="40" width="40" alt="Hugging Face"/></a>
-      <a href="https://ollama.com/" target="_blank"><img src="https://cdn.simpleicons.org/ollama" height="40" width="40" alt="Ollama"/></a>
-      <br>
-      <a href="https://jupyter.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" width="40" alt="Jupyter"/></a>
-      <a href="https://pandas.pydata.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" width="40" alt="Pandas"/></a>
-      <a href="https://numpy.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" width="40" alt="Numpy"/></a>
-      <a href="https://www.mathworks.com/" target="_blank"><img src="https://skillicons.dev/icons?i=matlab" height="40" width="40" alt="Matlab"/></a>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Galiwer/PneumoniaPrediction">🫁 Pneumonia Detection</a></h3>
+      <p>ML system that detects pneumonia from chest X-ray images using <strong>MobileNetV2</strong>. Exposes a FastAPI backend for image upload and inference, with a Streamlit UI for prediction visualisation and live training control.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      </p>
+      <sub>Feb 2026 – Mar 2026</sub>
     </td>
-    <td align="center" valign="top" width="50%">
-      <h3>☁️ DevOps & Design</h3>
-      <b>Cloud & Tools</b><br>
-      <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,git" />
-      <br><br>
-      <b>Creative</b><br>
-      <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,blender" />
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Galiwer/oilpricepredictionML">📈 Brent Oil Price Prediction</a></h3>
+      <p>Forecasts Brent crude oil prices using <strong>XGBoost</strong> regression on historical market data. Includes a full data preprocessing and feature engineering pipeline, with an interactive Streamlit dashboard for real-time trend visualisation.</p>
+      <p>
+        <img src="https://img.shields.io/badge/XGBoost-EE4C2C?style=flat-square" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </p>
+      <sub>Jan 2026 – Feb 2026</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://www.kaggle.com/datasets/omindukumara/sinhala-university-customer-service-q-and-a-dataset">🗣️ Sinhala QA Dataset</a></h3>
+      <p>Curated multilingual (Sinhala & English) QA dataset for university helpdesk chatbots, covering admissions, courses, fees, and timetables. Designed for NLP tasks including <strong>intent classification</strong> and conversational AI fine-tuning.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/NLP-FF6F00?style=flat-square" />
+        <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" />
+      </p>
+      <sub>Dec 2025 – Jan 2026</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Galiwer/Galle-My-Bungalow">🏨 Galle My Bungalow</a></h3>
+      <p>Full-stack hotel management system for streamlining bookings and customer data. Features real-time room availability dashboards, booking workflows, and a containerised deployment with Spring Boot and React.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </p>
+      <sub>Sep 2025 – Nov 2025</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Galiwer/CIRO">📱 CIRO</a></h3>
+      <p>Full-stack management system for a mobile phone shop handling sales, hardware repairs, and inventory. Customers and staff get real-time order status updates through a clean TypeScript-powered React frontend.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      </p>
+      <sub>Jan 2025 – May 2025</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Galiwer/IWB25-116-Ballerina-Cappuccina">💉 HealthVault</a></h3>
+      <p>Secure full-stack application for managing children's health records and vaccination schedules. Includes a smart scheduling module for doctor appointments, built with <strong>Ballerina</strong> and deployed on WSO2 Choreo.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Ballerina-20B6B0?style=flat-square" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Choreo-FF7300?style=flat-square" />
+      </p>
+      <sub>Jan 2025 – May 2025</sub>
     </td>
   </tr>
 </table>
-</div>
 
-<br>
+---
+
+## 🛠️ Skills
+
+| Area | Technologies |
+|---|---|
+| **Frontend** | HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Bootstrap |
+| **Backend** | Node.js, Express, Python, FastAPI, Java, Spring Boot, Ballerina |
+| **Databases** | MongoDB, PostgreSQL, MySQL, Firebase, Redis |
+| **AI / ML** | PyTorch, TensorFlow, Hugging Face, Stable Diffusion, Ollama, Pandas, NumPy |
+| **DevOps & Cloud** | Docker, Kubernetes, AWS, Azure, Choreo, Linux, Git |
+| **Design** | Figma, Adobe Photoshop, Illustrator, Blender |
+
+---
+
+## 📌 Currently
+
+- 🔨 Building a MERN stack application and an AI-powered forensic sketch generator
+- 📖 Learning advanced TypeScript, Tailwind CSS, and Python FastAPI
+- 🤝 Open to collaborating on React, Next.js, or AI/ML open source projects
+
+---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2196F3&height=100&section=footer&text=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do&fontSize=16&fontColor=ffffff&fontAlign=50" alt="Footer Quote" width="100%"/>
+  <sub><i>"The only way to do great work is to love what you do."</i></sub>
 </div>
